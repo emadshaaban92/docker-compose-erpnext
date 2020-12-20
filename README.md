@@ -1,3 +1,7 @@
+# Important Update
+
+This repo isn't maintained anymore because I stopped using ERPNext long time ago, luckily there's a working (and much better) alternative [Monogramm/docker-erpnext](https://github.com/Monogramm/docker-erpnext)
+
 # Docker ERPNext (Multi-container) Example
 
 Frappe, ERPNext - Dockerized on Alpine
